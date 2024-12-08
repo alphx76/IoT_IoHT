@@ -1,3 +1,7 @@
+# JOSE ALFONSO DOMINGUEZ CHAVEZ 1/DIC2024
+# EJEMPLO DE USO MQTT Y JSON PARA UNA APLICACIÓN IOHT
+# CÓDIGO PARA PUBLICAR
+
 import paho.mqtt.client as mqtt  # Importa la librería para el cliente MQTT
 import json                      # Importa la librería para manejar JSON
 import time                      # Importa la librería para el manejo del tiempo
